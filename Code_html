@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>Event Countdown Timer</title>
+
+<link rel="stylesheet" href="style.css">
+
+<script src="script.js"></script>
+
+</head>
+
+<body onload="startTimer()">
+
+<div class="container">
+
+<h1>Event Registration Countdown</h1>
+
+<h2 id="timer">Loading...</h2>
+
+<p id="warning"></p>
+
+</div>
+
+</body>
+</html>
